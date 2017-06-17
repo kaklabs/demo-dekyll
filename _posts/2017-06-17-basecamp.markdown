@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Basecamp"
+date:   2017-06-17 10:40 +0700
+categories: project
+excerpt: What is Basecamp?
+---
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Q9_BI-5-GXQ?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+> Using separate products to work together only drives information apart. That makes it difficult to find stuff, and progressively harder to stay on top of everything. What you need is a single, centralized place for all project work and company-wide communication. That's [Basecamp][basecamp].
+
+Know any friends, family, or colleagues who might like to give [Basecamp][basecamp] a try?
+
+[basecamp]: https://3.basecamp.com/r/ql0l

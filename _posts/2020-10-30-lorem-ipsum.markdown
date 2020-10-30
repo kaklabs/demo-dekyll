@@ -2,9 +2,14 @@
 layout: post
 title:  "Lorem Ipsum"
 date:   2020-10-30 06:44 +0700
-categories: project
+categories:
+- lorem
+- ipsum
+tags:
+- lorem
+- ipsum
 image: https://picsum.photos/id/1002/800/600
-excerpt: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit...
+excerpt: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit
 ---
 
 ![Earth]({{ page.image }} "Earth")

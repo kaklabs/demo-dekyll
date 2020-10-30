@@ -1,0 +1,6 @@
+<ul class="tag">
+  <li class="tag__item"><strong>Tags: </strong></li>
+  {% for tag in page.tags %}
+    <li class="tag__item">#{{ tag | replace: '-', ' ' }}</li>
+  {% endfor %}
+</ul>

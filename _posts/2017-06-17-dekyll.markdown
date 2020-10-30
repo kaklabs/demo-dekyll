@@ -3,36 +3,23 @@ layout: post
 title:  "Dekyll Theme"
 date:   2017-06-17 10:45 +0700
 categories: theme
+tags:
+- theme
+- jekyll
 excerpt: Jekyll's default theme extended version
 ---
 
-Jekyll theme based on default Jekyll's default theme.
+[Dekyll] is a clean and minimal blog theme for Jekyll based on Minima theme, the Jekyll's default theme. All configurations are under `_config.yml` file.
 
-All configuration is under `_config.yml` file.
+[Dekyll for Github][dekyll_github] is [Dekyll] theme for Github pages, so you can use this theme to run on Github Pages without any modification. Demo: <https://kaklabs.github.io/dekyll-for-github/>
 
-### Dependencies
-* jekyll 3
-* jekyll-sitemap
-* jekyll-paginate
-* jekyll-redirect-from
-* jekyll-seo-tag
+## How to Run Dekyll for Github Locally
 
-### Features
-* Support Jekyll 3
-* No Javascript required
-* CSS Compression
-* Related articles
-* Responsive
-* Support pagination
-* Sitemap
-* Support redirection
-* Social media sharing buttons
-* Google Analytic and Disqus
-* Jekyll SEO tag
+1. Open terminal and clone this repository
+2. Change directory to dekyll for github `cd dekyll-for-github`
+3. Run `bundle install`
+4. Run `bundle exec jekyll serve`
+5. Open http://localhost:4000/dekyll-for-github
 
-### How to Build
-Google Analytic and Disqus are only rendered in production environment, you must set `JEKYLL_ENV=production` when building Dekyll.
-
-```
-JEKYLL_ENV=production jekyll build
-```
+[Dekyll]: https://github.com/kuntoaji/dekyll
+[dekyll_github]: https://github.com/kaklabs/dekyll-for-github

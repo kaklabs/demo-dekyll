@@ -20,7 +20,7 @@ google_analytic_id:
 disqus_name:
 
 permalink: /:year/:month/:day/:title:output_ext
-paginate: 5
+paginate: 1
 paginate_path: /page/:num
 
 # jekyll seo tag settings

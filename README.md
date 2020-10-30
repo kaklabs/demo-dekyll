@@ -4,6 +4,10 @@
 
 [Dekyll] for Github is [Dekyll] theme for Github pages, so you can use this theme to run on Github Pages without any modification. Demo: <https://kaklabs.github.io/dekyll-for-github/>
 
+## What's the difference with Dekyll?
+
+Some features are not available, such as HTML compression, categories page and tags page.
+
 ## How to Run Dekyll for Github Locally
 
 1. Open terminal and clone this repository
